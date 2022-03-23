@@ -1,0 +1,3 @@
+{{$FromEmail}}
+{{$ToEmail}}
+{{$content}}
